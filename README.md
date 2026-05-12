@@ -1,11 +1,28 @@
-<div align="center">
+# Student Information Management System
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A comprehensive web application for managing student records, built with Node.js, Express, React, and Cloud Database technology.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Create**: Add new student records with full details.
+- **Read**: View a complete list of registered students in a responsive table.
+- **Update**: Edit existing student information seamlessly.
+- **Delete**: Remove student records from the system.
+- **Responsive Design**: Polished UI built with Tailwind CSS.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Tech Stack
+- **Frontend**: React, Vite, Tailwind CSS, Lucide Icons, Framer Motion.
+- **Backend**: Node.js, Express.
+- **Database**: Cloud-hosted Database (Firebase/Firestore).
+- **Deployment**: Google Cloud Run (AI Studio Preview).
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Repository Files
+- `package.json`: Dependency management and scripts.
+- `crud_final_exam.ts`: Express backend server and Aiven MySQL integration.
+- `src/`: Frontend application code.
+- `.env.example`: Configuration template for database credentials.
 
-</div>
+## Deployment Link
+- [Live Demo](MY_APP_URL)
+
+## Author
+[Your Name] - Final Practical Examination (IT318)
